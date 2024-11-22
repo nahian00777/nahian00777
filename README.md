@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @nahian00777
-- 👀 I’m interested in making wonderful projects...
-- 🌱 I’m currently learning competitive programming...
-- 💞️ I’m looking to collaborate on cp discussion...
-- 📫 You can reach me through my username in instagram and facebook...
+👋 Hi, I’m Nahian Chowdhury
+
+👀 I’m interested in making impactful projects
+
+🌱 I’m currently learning Flutter, Android (Kotlin), and Web Development (MERN stack)
+
+💞️ I’m looking to collaborate on mobile and web app projects
+
+📫 You can reach me through my username nahian00777 on LinkedIn
 
 <!---
 nahian00777/nahian00777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
